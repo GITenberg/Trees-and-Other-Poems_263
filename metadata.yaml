@@ -1,0 +1,26 @@
+_repo: Trees-and-Other-Poems_263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: http://en.wikipedia.org/wiki/Joyce_Kilmer
+description: ''
+gutenberg_issued: '1995-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry, Modern -- 20th century'
+- GITenberg
+title: Trees, and Other Poems
+url: http://www.gutenberg.org/ebooks/263
